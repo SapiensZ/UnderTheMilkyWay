@@ -3,6 +3,6 @@
 
 *.csv
 *.txt
-Query Function.py
+Query_Function.py
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
